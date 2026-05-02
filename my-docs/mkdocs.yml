@@ -7,3 +7,4 @@ theme:
       - Product Overview: overview/product-overview.md
   - Release Notes:
       - v5.0: release-notes/5-0-release-notes.md
+      site_url: https://tiwaryarchana.github.io/docs-as-code-practice/
