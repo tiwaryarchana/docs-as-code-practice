@@ -1,6 +1,9 @@
 site_name: My Documentation
 theme:
   name: material
-nav:
+  nav:
   - Home: index.md
-  - Getting Started: getting-started.md
+  - Overview:
+      - Product Overview: overview/product-overview.md
+  - Release Notes:
+      - v5.0: release-notes/5-0-release-notes.md
